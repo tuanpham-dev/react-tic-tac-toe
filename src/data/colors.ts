@@ -1,0 +1,5 @@
+export const textColor = '#4c6a86'
+export const grayColor = '#b1bbc6'
+export const circleColor = '#39bcd4'
+export const crossColor = '#3a98d4'
+export const tieColor = '#91a2ab'

@@ -1,4 +1,10 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# React Tic Tac Toe
+
+This is a elegant Tic Tac Toe game using React for one or two players.
+
+[Demo](https://tuanpham-dev.github.io/react-tic-tac-toe)
+
+![react-tic-tac-toe](https://raw.githubusercontent.com/tuanpham-dev/react-tic-tac-toe/master/screenshot.png)
 
 ## Available Scripts
 
